@@ -1,0 +1,18 @@
+Feature,Importance
+Treatment Progress (1-10),0.36232582
+Sleep Quality (1-10),0.11244463
+Stress Level (1-10),0.09601145
+Mood Score (1-10),0.088520974
+Symptom Severity (1-10),0.08797801
+Physical Activity (hrs/week),0.04138865
+Outcome,0.02121825
+Start_Day,0.020914251
+Treatment Duration (weeks),0.020648118
+Age,0.02007791
+Medication,0.020035002
+Start_Month,0.019904168
+AI-Detected Emotional State,0.019432541
+Therapy Type,0.01925589
+Start_Year,0.017172286
+Diagnosis,0.01715738
+Gender,0.015514547

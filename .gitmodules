@@ -1,0 +1,3 @@
+[submodule "adherence-backend"]
+	path = adherence-backend
+	url = https://github.com/salmaelgf/adherence-backend.git
