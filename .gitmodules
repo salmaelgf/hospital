@@ -1,3 +1,6 @@
 [submodule "adherence-backend"]
 	path = adherence-backend
 	url = https://github.com/salmaelgf/adherence-backend.git
+[submodule "HospitalManagementDashboard"]
+	path = HospitalManagementDashboard
+	url = https://github.com/salmaelgf/hospital-flutter-dashboard.git
