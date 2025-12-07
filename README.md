@@ -1,4 +1,4 @@
-# Système de Gestion Hospitalière avec Intelligence Artificielle
+# Système de Prédiction des comportements d’adhésion aux thérapies basées sur profils psychométriques
 
 Ce projet est une plateforme complète de gestion hospitalière intégrant :
 
